@@ -1,6 +1,8 @@
-## Introduction into Machine Learning and Deep Learning
+## Introduction into Machine Learning and Deep Learning (ML:DL)
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+
+![Course Banner](https://github.com/GitiHubi/courseAIML/blob/master/banner.png)
 
 A series of interactive lab notebooks we prepared for the Introduction into Machine Learning and Deep Learning course. The content of the series is based on Python, IPython Notebook, and PyTorch.
 
