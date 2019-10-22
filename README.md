@@ -18,6 +18,8 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 02:** "Fundamentals of Python Programming" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_02/mldl_colab_02.ipynb)
 
+**Lab 03:** "Supervised Machine Learning" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_03/mldl_colab_03.ipynb)
+
 ## Getting Started
 
 Install dependencies via `pip install -r requirements.txt`.
