@@ -24,6 +24,8 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 05:** "Supervised Deep Learning - ANNs" (CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_05/mldl_colab_05.ipynb)) (GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_05/mldl_colab_05_gpu.ipynb))
 
+**Lab 06:** "Supervised Deep Learning - CNNs" (CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_06/mldl_colab_06.ipynb)) (GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_06/mldl_colab_06_gpu.ipynb))
+
 ## Getting Started
 
 Install dependencies via `pip install -r requirements.txt`.
