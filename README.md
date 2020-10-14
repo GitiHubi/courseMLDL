@@ -20,9 +20,9 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 01:** "Introduction to the Lab Environment" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseMLDL/master?filepath=lab_01%2Fmldl_lab_01.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_01/mldl_colab_01.ipynb))
 
-<!--
-
 **Lab 02:** "Fundamentals of Python Programming" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_02/mldl_colab_02.ipynb)
+
+<!--
 
 **Lab 03:** "Supervised Machine Learning" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_03/mldl_colab_03.ipynb)
 
