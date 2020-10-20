@@ -22,9 +22,11 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 02:** "Fundamentals of Python Programming" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_02/mldl_colab_02.ipynb)
 
-<!--
+**Lab 03:** "Supervised Machine Learning" 
+- Naive-Bayes: ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseMLDL/master?filepath=lab_03%2Fmldl_lab_03a.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_03/mldl_colab_03a.ipynb))
+- k-Nearest Neighbors: ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseMLDL/master?filepath=lab_03%2Fmldl_lab_03b.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_03/mldl_colab_03b.ipynb))
 
-**Lab 03:** "Supervised Machine Learning" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_03/mldl_colab_03.ipynb)
+<!--
 
 **Lab 04:** "Unsupervised Machine Learning" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_04/mldl_colab_04.ipynb)
 
