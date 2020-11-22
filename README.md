@@ -27,9 +27,11 @@ This is currently work in progress so expect minor errors and some rough edges ;
 - k-Nearest Neighbors: ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseMLDL/master?filepath=lab_03%2Fmldl_lab_03b.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_03/mldl_colab_03b.ipynb))
 - Logistic Regression: ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseMLDL/master?filepath=lab_07%2Fmldl_lab_07.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_07/mldl_colab_07.ipynb))
 
-<!--
+**Lab 04:** "Unsupervised Machine Learning" 
+- K-Means: ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseMLDL/master?filepath=lab_04%2Fmldl_lab_04a.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_04/mldl_colab_04a.ipynb))
+- Expectation-Maximization: ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseMLDL/master?filepath=lab_04%2Fmldl_lab_04b.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_04/mldl_colab_04b.ipynb))
 
-**Lab 04:** "Unsupervised Machine Learning" [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_04/mldl_colab_04.ipynb)
+<!--
 
 **Lab 05:** "Supervised Deep Learning - ANNs" (CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_05/mldl_colab_05.ipynb)) (GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_05/mldl_colab_05_gpu.ipynb))
 
