@@ -31,9 +31,9 @@ This is currently work in progress so expect minor errors and some rough edges ;
 - K-Means: ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseMLDL/master?filepath=lab_04%2Fmldl_lab_04a.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_04/mldl_colab_04a.ipynb))
 - Expectation-Maximization: ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseMLDL/master?filepath=lab_04%2Fmldl_lab_04b.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_04/mldl_colab_04b.ipynb))
 
-<!--
+**Lab 05:** "Supervised Deep Learning - ANNs" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseMLDL/master?filepath=lab_05%2Fmldl_lab_05.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_05/mldl_colab_05.ipynb))
 
-**Lab 05:** "Supervised Deep Learning - ANNs" (CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_05/mldl_colab_05.ipynb)) (GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_05/mldl_colab_05_gpu.ipynb))
+<!--
 
 **Lab 06:** "Supervised Deep Learning - CNNs" (CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_06/mldl_colab_06.ipynb)) (GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseMLDL/blob/master/lab_06/mldl_colab_06_gpu.ipynb))
 -->
